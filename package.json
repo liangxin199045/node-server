@@ -1,0 +1,15 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "学习实现进程管理，进程守护，全息日志，染色，路由管理等",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.code.oa.com/icemanliang/nodeServer.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
